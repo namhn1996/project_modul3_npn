@@ -1,0 +1,10 @@
+
+.n-navbar{
+ font-size: 10px
+}
+.logo{
+    width: 250px;
+    height: 60px;
+    float: left;
+    transition-duration: .1s;
+}
